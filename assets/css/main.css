@@ -91,4 +91,8 @@ main .buttons .button:active {
   box-shadow: inset -2px 4px 0 #111;
 }
 
+footer {
+  font-size: clamp(0.5rem, 3vw, 1.5rem);
+}
+
 /*# sourceMappingURL=main.css.map */
